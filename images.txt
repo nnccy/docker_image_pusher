@@ -9,3 +9,4 @@ tomcat:9.0.88-jdk8
 grafana/grafana:10.0.0
 nginx:1.25.0
 timescale/timescaledb:2.14.0-pg16
+openjdk:21
