@@ -10,3 +10,4 @@ grafana/grafana:10.0.0
 nginx:1.25.0
 timescale/timescaledb:2.14.0-pg16
 openjdk:21
+rabbitmq:3.13.6-management
