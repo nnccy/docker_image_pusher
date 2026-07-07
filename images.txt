@@ -5,12 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-tomcat:9.0.88-jdk8
-grafana/grafana:10.0.0
-nginx:1.25.0
-timescale/timescaledb:2.14.0-pg16
-openjdk:21
-rabbitmq:3.13.6-management
-sonarqube:10.6.0-community
-postgres:12
+
 influxdb:3.10.0-core
