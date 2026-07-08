@@ -7,4 +7,4 @@
 
 
 influxdb:3.10.0-core
-influxdata/influxdb3-ui:1.9.0
+influxdb3-ui:1.9.0
